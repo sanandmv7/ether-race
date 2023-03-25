@@ -1,3 +1,4 @@
+![Ether race poster](https://user-images.githubusercontent.com/56066399/227703235-5ba9ac5a-8783-47ac-ab65-0c070cb7c13b.png)
 # EtherRace
 
 EtherRace is a racing game built on the Ethereum blockchain using smart contracts. The game is designed to teach players about different Ethereum concepts, such as gas fees, block confirmations, and decentralized applications.
